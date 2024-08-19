@@ -1,0 +1,6 @@
+- hosts: localhost
+  vars:
+    install_source: Native
+  roles:
+  - UniInc.GFN-Electron
+
